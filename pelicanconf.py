@@ -23,7 +23,7 @@ ARCHIVES_SAVE_AS = 'archive.html'
 SUMMARY_MAX_LENGTH = 90
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
-        ('¿Qué es esto?', 'pages/about.html'),
+        ('¿Qué es esto?', 'pages/que-es-esto.html'),
         ('Archivo', 'archive.html'),
         )
 
