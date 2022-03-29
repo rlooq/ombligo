@@ -11,7 +11,7 @@ DEFAULT_LANG = 'es'
 
 
 SITESUBTITLE = "Desvaríos de mediodía"
-BIO = "'Estoy escribiendo una extensa denuncia contra nuestro siglo. Cuando mi cerebro se agota de sus tareas literarias, suelo hacer salsa de queso.' --Ignatius J. Reilly"
+BIO = ""
 PROFILE_IMAGE = 'calling.jpg'
 FOOTER_TEXT = '© 2021. Rafa Luque. Todos los derechos reservados.'
 COLOR_THEME = '0x'

@@ -3,4 +3,4 @@ Disallow:
 
 
 
-Sitemap: https://www.highnoon-ruffles.com/sitemap.xml
+Sitemap: https://www.ombligodelagalaxia.es/sitemap.xml
