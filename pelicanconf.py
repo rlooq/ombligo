@@ -8,23 +8,24 @@ PATH = 'content'
 TIMEZONE = 'Europe/Madrid'
 DEFAULT_DATE_FORMAT = '%d-%m-%Y'
 DEFAULT_LANG = 'es'
+GOOGLE_ANALYTICS = "GOOGLE ANALYTICS"
 
-
-SITESUBTITLE = "Desvaríos de mediodía"
-BIO = ""
+SITESUBTITLE = ""
+BIO = "Blog personal y almacén de relatos muy cortos, poesía y otros juegos lingüísticos."
 PROFILE_IMAGE = 'calling.jpg'
-FOOTER_TEXT = '© 2021. Rafa Luque. Todos los derechos reservados.'
+FOOTER_TEXT = '© 2022. Rafa Luque. Todos los derechos reservados.'
 COLOR_THEME = '0x'
 DIRECT_TEMPLATES = ['index', 'archives']
 CATEGORY_SAVE_AS = ''
 TAG_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
 ARCHIVES_SAVE_AS = 'archive.html'
-SUMMARY_MAX_LENGTH = 90
+SUMMARY_MAX_LENGTH = 36
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
-        ('¿Qué es esto?', 'pages/que-es-esto.html'),
-        ('Archivo', 'archive.html'),
+        ('¿Qué es esto?', 'https://www.ombligodelagalaxia.es/pages/que-es-esto.html'),
+        ('Archivo', 'https://www.ombligodelagalaxia.es/archive.html'),
+        ('In English', 'https://www.highnoon-ruffles.com'),
         )
 
 FONT_AWESOME_JS = 'https://kit.fontawesome.com/829b54ddaf.js'
