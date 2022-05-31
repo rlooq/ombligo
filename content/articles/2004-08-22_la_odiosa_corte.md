@@ -12,4 +12,4 @@ Aun así, un día de estos va a rendirse a mis avances tercos. La perseverancia 
 
 Mientras tanto, la vida madrileña no es más que un anhelo opaco y un tormento de exiliado. La única opción es aceptar ese yugo y decorarlo con ficciones: la ficción analgésica del arte, la del ascetismo indiferente, la épica de cañitas al sol y risas en cacofonía, de Madrid al cielo, sinergias urbanas, el tacto suave de los asientos del metro, las albóndigas de Ikea, el *bento ume* de Donzoko.
 
-Entre tanto, el sueño de esa rendición incondicional y permanente se disipa y se va olvidando. Volviendo una vez más por la A6, el Arco de la Victoria molesta a la vista: monumento patético a una violación, no rendición. Madrid no se rinde a nadie.
+Así, el sueño de esa rendición incondicional y permanente se disipa y se va olvidando. Volviendo una vez más por la A6, el Arco de la Victoria molesta a la vista: monumento patético a una violación, no rendición. Madrid no se rinde a nadie.
